@@ -1,0 +1,6 @@
+__pycache__/
+**/VOCdevkit/
+__MACOSX/
+**/papers/
+**/mAP/
+.DS_Store
