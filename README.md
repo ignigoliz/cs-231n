@@ -4,9 +4,9 @@ The assignments are from the [Winter 2022](https://web.eecs.umich.edu/~justincj/
 
 The lectures correspond to the [Fall 2019](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) offering of the course, which can be found on Youtube.
 
-The course was first taught at Standford by A. Karpathy, J. Johnson and F. Li and named `CS-231n`.
-When J. Johnson moved to UMichigan, he started teaching the course there and shared the lectures on Youtube.
+The course was first taught at Standford by A. Karpathy, J. Johnson and F. Li and named `CS-231n`. When J. Johnson moved to UMichigan, he started teaching the course there and shared the lectures on Youtube.
 
+## Assignments
 - Assignment 1: kNN & PyTorch
 - Assignmetn 2: Linear Classifier & Two Layer NN
 - Assignment 3: Fully-Connected NN & Convolutional NN
